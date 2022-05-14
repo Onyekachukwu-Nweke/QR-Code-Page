@@ -21,12 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![./images/image-qr-code.png](./images/image-qr-code.png)
+![./images/qr-code.jpg](./images/qr-code.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://codepen.io/M3GATR0N/full/dydOqdy](https://codepen.io/M3GATR0N/full/dydOqdy)
+- Solution URL: [Github](https://github.com/Onyekachukwu-Nweke/QR-Code-Page)
+- Live Site URL: [Codepen](https://codepen.io/M3GATR0N/full/dydOqdy)
 
 ## My process
 
